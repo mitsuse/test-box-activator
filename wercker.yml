@@ -13,3 +13,4 @@ build:
             name: java-version
             code: |
                 java -version
+                echo $JAVA_HOME
