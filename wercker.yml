@@ -1,4 +1,4 @@
-box: mitsuse/box-activator
+box: mitsuse/activator
 build:
     steps:
         - script:
