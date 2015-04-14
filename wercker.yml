@@ -9,3 +9,7 @@ build:
             name: test
             code: |
                 activator test
+        - script:
+            name: java-version
+            code: |
+                java -version
